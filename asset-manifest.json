@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Project-Tracking-Intro/static/css/main.89727d0b.css",
+    "main.js": "/Project-Tracking-Intro/static/js/main.594f0ce4.js",
+    "static/media/illustration-devices.svg": "/Project-Tracking-Intro/static/media/illustration-devices.30f970328fa2963777660c23d307ba6d.svg",
+    "index.html": "/Project-Tracking-Intro/index.html",
+    "static/media/icon-close.svg": "/Project-Tracking-Intro/static/media/icon-close.c77a2797ac0e70ef4281.svg",
+    "static/media/logo.svg": "/Project-Tracking-Intro/static/media/logo.52a9134aef772ac89fd511696d08fec9.svg",
+    "static/media/icon-hamburger.svg": "/Project-Tracking-Intro/static/media/icon-hamburger.d2a3eed8f465f3e82f16.svg",
+    "main.89727d0b.css.map": "/Project-Tracking-Intro/static/css/main.89727d0b.css.map",
+    "main.594f0ce4.js.map": "/Project-Tracking-Intro/static/js/main.594f0ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89727d0b.css",
+    "static/js/main.594f0ce4.js"
+  ]
+}
